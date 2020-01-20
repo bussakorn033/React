@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "productid": 1,
+      "productName": "สลัดผัก",
+      "unitPrice": "120",
+      "thumbnail": "/images/product/1.jpg",
+      "id": 1
+    },
+    {
+      "productid": 2,
+      "productName": "ไก่ทอด",
+      "unitPrice": "199",
+      "thumbnail": "/images/product/2.jpg",
+      "id": 2
+    },
+    {
+      "productid": 3,
+      "productName": "สเต็กเนื้อ",
+      "unitPrice": "159",
+      "thumbnail": "/images/product/3.jpg",
+      "id": 3
+    },
+    {
+      "productid": 4,
+      "productName": "สเต็กไก่",
+      "unitPrice": "129",
+      "thumbnail": "/images/product/4.jpg",
+      "id": 4
+    },
+    {
+      "productid": 5,
+      "productName": "สเต็กไก่ทอด",
+      "unitPrice": "129",
+      "thumbnail": "/images/product/4.jpg",
+      "id": 5
+    }
+  ],
+  "orders":[]
+}
