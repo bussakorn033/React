@@ -1,19 +1,30 @@
 {
-  "posts": [
+  "products": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "productName": "สลัดผัก",
+      "unitPrice": "120",
+      "thumbnail": "/images/product/1.jpg",
+      "id": 1
+    },
+    {
+      "productName": "ไก่ทอด",
+      "unitPrice": "199",
+      "thumbnail": "/images/product/2.jpg",
+      "id": 2
+    },
+    {
+      "productName": "สเต็กเนื้อ",
+      "unitPrice": "159",
+      "thumbnail": "/images/product/3.jpg",
+      "id": 3
+    },
+    {
+      "productName": "สเต็กไก่ทอด",
+      "unitPrice": "129",
+      "thumbnail": "/images/product/4.jpg",
+      "id": 5
     }
   ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "orders":[]
 }
+

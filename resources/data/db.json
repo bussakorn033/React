@@ -20,11 +20,36 @@
     },
     {
       "productName": "สเต็กไก่ทอด",
-      "unitPrice": "129",
       "thumbnail": "/images/product/4.jpg",
-      "id": 5
+      "unitPrice": "149",
+      "id": 4
     }
   ],
-  "orders":[]
+  "orders": [
+    {
+      "orderedDate": "2020-02-03T04:39:00.063Z",
+      "totalPrice": 319,
+      "orders": [
+        {
+          "product": {
+            "productName": "ไก่ทอด",
+            "unitPrice": "199",
+            "thumbnail": "/images/product/2.jpg",
+            "id": 2
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "productName": "สลัดผัก",
+            "unitPrice": "120",
+            "thumbnail": "/images/product/1.jpg",
+            "id": 1
+          },
+          "quantity": 1
+        }
+      ],
+      "id": 1
+    }
+  ]
 }
-
